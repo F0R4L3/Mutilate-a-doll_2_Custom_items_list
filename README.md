@@ -1,23 +1,37 @@
-<h1>Mutilate-a-Doll 2 Custom Items list</h1>
-<h2>FAQ: </h2>
-<br>
-<h3>Q: What is this Repo?</h3>
-A: This is a repo for a game called Mutilate-a-doll 2 AKA MaD2, in this repo, are contained 100+ Custom items list.
+# Mutilate-a-Doll 2 Custom Items List
 
-<h3>Q: How do I use this?</h3>
-A: To use this, make sure you have MaD2 Opened. Then simply open the Github pages, and you'll see a Custom Items with their names and description (I will try to add images soon). To copy their content, just click the card of the custom items. And you should have it on your clipboard, now go to the MaD2 Windows. And Paste the content, Just Ctrl + V. That's all.
+This repository contains a list of 100+ custom items for the game Mutilate-a-Doll 2, also known as MaD2.
 
-<h3>Q: Why I don't see my Custom items in the list?</h3>
-A: There's many reasons why, but it's very likely because I did not add your Custom items in the JSON list, hence making your Custom Items not visible. Though, there's like 63890 Custom Items in the Main Database, including yours likely. I just do not add it. Or it's because your Custom items are unworthy to be displayed on the Custom items list.
+## FAQ
 
-<h3>Q: How many hours did it takes to build this website?</h3>
-A: Approximately 10 Hours.
+### Q: What is this repository?
 
-<h3>Q: Is this available on Mobile?</h3>
-A: No, since MaD2 Only playable on Computer, PC, Laptop, hence I deny to make this website Mobile Friedly.
+A: This repository contains a collection of custom items for the game MaD2. Each custom item includes a name and description.
 
-<h3>Q: What library/framework is used on this Website?</h3>
-A: Svelte, and Tailwind CSS.
+### Q: How do I use this?
 
-<h3>Q: Are you homophobic?</h3>
-A: Yes.
+A: To use this repository, make sure you have MaD2 opened. Simply navigate to the GitHub pages for this repository to see the custom items list. To copy the content of a custom item, simply click on the corresponding card. The content will be copied to your clipboard, and you can then paste it into MaD2 by pressing `Ctrl + V`.
+
+### Q: Why don't I see my custom items in the list?
+
+A: There could be many reasons for this, but it is likely that your custom items have not been added to the JSON list. However, there are over 63,890 custom items in the main database, including yours. It's possible that your custom items did not meet the criteria for display in this list.
+
+### Q: How many hours did it take to build this website?
+
+A: This website took approximately 10 hours to build.
+
+### Q: Is this website available on mobile?
+
+A: No, this website is not mobile-friendly since MaD2 can only be played on a computer, PC, or laptop.
+
+### Q: What library/framework was used to build this website?
+
+A: This website was built using Svelte and Tailwind CSS.
+
+### Q: Why do I see a blank white screen on the website?
+
+A: This issue could occur if your PC is unable to handle the size of the database that is loaded or if there was an issue during deployment.
+
+### Q: Are you homophobic?
+
+A: Yes, in manner way.
